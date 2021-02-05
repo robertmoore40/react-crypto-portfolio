@@ -4,3 +4,6 @@ import './Coin.css';
 const Coin = ({
     name,
     price,
+    symbol,
+  marketcap,
+  volume,
