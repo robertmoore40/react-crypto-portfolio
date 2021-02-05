@@ -5,8 +5,8 @@ const Coin = ({
     name,
     price,
     symbol,
-  marketcap,
-  volume,
-  image,
-  priceChange
-}) => {
+    marketcap,
+    volume,
+    image,
+    priceChange
+  }) => {
