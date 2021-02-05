@@ -38,3 +38,5 @@ const Coin = ({
       </div>
   );
 };
+
+export default Coin;
