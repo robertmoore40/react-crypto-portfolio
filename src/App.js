@@ -27,3 +27,6 @@ function App() {
         coin.name.toLowerCase().includes(search.toLowerCase())
       );
     
+      return (
+        <div className='coin-app'>
+          <div className='coin-search'>
