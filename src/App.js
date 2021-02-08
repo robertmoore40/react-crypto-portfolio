@@ -53,3 +53,7 @@ function App() {
           priceChange={coin.price_change_percentage_24h}
         />
       );
+    })}
+    </div>
+  );
+}
