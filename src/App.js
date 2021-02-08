@@ -46,3 +46,6 @@ function App() {
           key={coin.id}
           name={coin.name}
           price={coin.current_price}
+          symbol={coin.symbol}
+          marketcap={coin.total_volume}
+          volume={coin.market_cap}
