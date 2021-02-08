@@ -39,3 +39,6 @@ function App() {
             placeholder='Search'
             />
           </form>
+          </div>
+      {filteredCoins.map(coin => {
+        return (
