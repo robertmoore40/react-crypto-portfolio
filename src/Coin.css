@@ -38,3 +38,6 @@
   .coin-data {
     display: flex;
     text-align: right;
+    justify-content: space-between;
+    width: 100%;
+  }
