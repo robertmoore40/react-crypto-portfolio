@@ -32,12 +32,12 @@
 }
 
 .coin-symbol {
-    text-transform: uppercase;
-  }
+  text-transform: uppercase;
+}
 
-  .coin-data {
-    display: flex;
-    text-align: right;
-    justify-content: space-between;
-    width: 100%;
-  }
+.coin-data {
+  display: flex;
+  text-align: right;
+  justify-content: space-between;
+  width: 100%;
+}
