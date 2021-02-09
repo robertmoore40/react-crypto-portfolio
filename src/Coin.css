@@ -34,3 +34,7 @@
 .coin-symbol {
     text-transform: uppercase;
   }
+
+  .coin-data {
+    display: flex;
+    text-align: right;
