@@ -30,3 +30,7 @@
   width: 30px;
   margin-right: 10px;
 }
+
+.coin-symbol {
+    text-transform: uppercase;
+  }
